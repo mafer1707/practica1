@@ -1,0 +1,7 @@
+C:\Users\Yasmin\Desktop\PR222\Preparaduria-02-master\Prepa 02\bin\Debug\Prepa 02.exe.config
+C:\Users\Yasmin\Desktop\PR222\Preparaduria-02-master\Prepa 02\bin\Debug\Prepa 02.exe
+C:\Users\Yasmin\Desktop\PR222\Preparaduria-02-master\Prepa 02\bin\Debug\Prepa 02.pdb
+C:\Users\Yasmin\Desktop\PR222\Preparaduria-02-master\Prepa 02\obj\Debug\Prepa 02.csproj.AssemblyReference.cache
+C:\Users\Yasmin\Desktop\PR222\Preparaduria-02-master\Prepa 02\obj\Debug\Prepa 02.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\Desktop\PR222\Preparaduria-02-master\Prepa 02\obj\Debug\Prepa 02.exe
+C:\Users\Yasmin\Desktop\PR222\Preparaduria-02-master\Prepa 02\obj\Debug\Prepa 02.pdb
